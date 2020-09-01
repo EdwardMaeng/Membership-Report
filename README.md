@@ -21,6 +21,8 @@ Five sales files that contain details of member shopping for a day (member numbe
 Your program should read from the daily sales file and update the members’ information accordingly. As the sales are processed, the total amount spent and rebate data for each member should be updated. Assume a sales tax rate of 8.75%.
 
 
+
+
 Generate the following reports/request at any time:
 
 (1) A sales report for any given day. It should include a list of items and quantities sold on that day as well as names of the members who shopped that day.  Report the total revenue for the given day.  It should also include the number of preferred members and basic members who shopped during the given day.
